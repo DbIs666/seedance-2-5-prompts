@@ -1,0 +1,41 @@
+{
+  "id": "20260820-010",
+  "title": "1950s Diner Bullet-Time Milkshake Spill",
+  "prompt": "Bullet Time effect\nStyle & Mood: Photorealistic 1950s American diner, modern lived-in documentary grit — chrome stools, deep red vinyl booths, checkerboard tile floor, neon glow mixed with warm window light and amber practicals, subtle handheld texture, heavy film grain, shifting into hyper-stylized bullet-time suspension during the spill. Dynamic Description: Shot 1 curly-haired man in cream quarter-zip sits alone at the counter, calm, sipping a thick milkshake through a straw; waitress approaches behind him with a tray holding a burger in one hand and a large glass jug of orange juice in the other; man in booth begins rising. Shot 2  rising man collides hard into waitress, tray/burger/jug launch upward in chaotic slow motion, orange juice bursting into glassy ribbons and suspended droplets catching neon light, camera swings into a smooth continuous orbit around the impact, time locks at the peak of the spill, every face frozen in shock — intercut a 96fps high-speed slow-motion frame at impact, holding 180-degree shutter — only the man at the counter keeps moving, unfazed. Shot 3  camera glides a full 360-degree orbit through the frozen diner, orange juice hanging as glassy ribbons and spheres, burger/plate/jug floating weightless, waitress and rising man locked in shock, man at counter takes one slow deliberate sip, eyes half-lidded, while the frozen world reverses — droplets, food, bodies rewind smoothly to starting position. Shot 4 rewind lands perfectly, waitress balanced again with tray and jug intact, man lifts his eyes, raises two fingers, softly says her name, she turns toward him a beat before the rising man stands — collision avoided, a tiny private smile. Hard cut to Shot 5 extreme close-up on his face, one last slow sip, soft knowing smile, eyes almost closed, shallow depth of field, creamy neon bokeh behind him. Static Description: Man at counter — short tightly-curled black hair, light stubble, dark brown eyes, medium-tan complexion, lean athletic build, off-white quarter-zip fleece with small chest emblem and embroidered script wordmark, black sweatpants, white-and-grey low-top sneakers, holding a tall milkshake glass with a wide straw. Waitress — fitted white scoop-neck crop top with a bold orange \"HAATERS\" wordmark arched across the chest, high-cut orange shorts, sheer tan tights, white ankle socks, white sneakers, hair worn down, tan skin, thin apron tie at the hip. Booth man — rumpled tan button-down, suspenders, dark trousers. Diner — chrome-trimmed stools on a laminate counter, red tufted vinyl booths, black-and-white checkerboard tile floor, warm tungsten practicals mixed with buzzing neon signage, soft window daylight, chrome napkin dispenser, milkshake mixer behind the counter. Shot on ARRI Alexa 35, ProRes 4444 LogC4, Panavision Ultra Vintage 2x anamorphic 55mm racking to 100mm for the closing close-up at  Tiffen Black Pro-Mist 1/4 filter, handheld with natural breath shifting to a smooth orbital move during the freeze/rewind, oval bokeh, horizontal streak flares, warm anamorphic falloff, Kodak Vision3 250D emulation with slight halation and 800 ASA grain, teal-amber split grade, shallow depth of field, 24fps 180-degree shutter, total runtime roughly thirty seconds. Audio  diegetic only — straw pull against ice, plate and tray clatter, glass jug impact, juice splashing and droplet patter, sharp collective inhale, stool creak, distant neon hum, ambient chatter fading to silence at the freeze then a brief reversed audio blur through the rewind before resuming, no music, no dialogue except one softly murmured name.\nReplace him with her and her with him in this prompt\nIn short replace man with girl in the reference image",
+  "model": "seedance-2.5",
+  "category": [
+    "cinematic",
+    "vfx",
+    "meme"
+  ],
+  "language": "en",
+  "author": {
+    "name": "Smiling Khan",
+    "x_handle": "@AIwithkhan",
+    "profile_url": "https://x.com/AIwithkhan"
+  },
+  "source": {
+    "platform": "x",
+    "url": "https://x.com/AIwithkhan/status/2090306815833899065",
+    "posted_at": "2026-08-20T05:15:55Z",
+    "likes": 91,
+    "reposts": 5,
+    "views": 9200
+  },
+  "media": {
+    "video_url": "",
+    "thumb_url": "",
+    "duration_sec": null
+  },
+  "tags": [
+    "bullet-time",
+    "diner",
+    "slow-motion",
+    "orbit",
+    "comedy"
+  ],
+  "score": 13.0,
+  "collected_at": "2026-08-20T12:00:00Z",
+  "featured": false,
+  "notes": "Bullet-time diner gag with freeze/rewind; optional gender swap note at end."
+}

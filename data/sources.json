@@ -1,0 +1,26 @@
+{
+  "description": "Seed accounts and keywords for daily X (Twitter) collection. Expand over time.",
+  "keywords": [
+    "Seedance 2.5",
+    "Seedance2.5",
+    "Seedance 2.0",
+    "Seedance2.0",
+    "Seedance prompt",
+    "Seedance AI",
+    "即梦 Seedance"
+  ],
+  "accounts": [
+    {
+      "handle": "@johnAGI168",
+      "note": "Frequently posts cinematic Seedance multi-shot prompts",
+      "priority": "high"
+    }
+  ],
+  "acceptance": {
+    "prefer_model": "seedance-2.5",
+    "also_accept": ["seedance-2.0", "seedance-2.x"],
+    "min_likes_soft": 50,
+    "require_source_url": true,
+    "require_full_prompt": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "20260820-002",
+  "title": "Curious Fox Mountain Stream Selfie Vlog",
+  "prompt": "Create a single continuous self-filmed vlog recorded on a handheld action camera in 16:9 aspect ratio. The camera is always held by the anthropomorphic fox, creating a natural first-person selfie perspective with light wind-induced shake, occasional soft lens flares from sunlight filtering through trees, realistic focus pulls, and dynamic walking/leaning motion. No cuts, transitions, or cinematic effects. Include a subtle realistic digital timestamp in the bottom-right corner that progresses naturally throughout the video.\nVisual Style: Bright modern 4K digital look with vibrant yet soft natural colors, warm late-afternoon golden sunlight mixed with dappled shade, gentle water reflections and soft mist rising from the stream, subtle water droplets or mist on the lens near the water, and crisp details on fur and leaves. Slight handheld energy but smooth enough for casual vlogging. Widescreen 16:9 framing.\nCharacter: Ember, a 24-year-old anthropomorphic red fox (bipedal, human-like proportions) with soft fluffy reddish-orange fur, white chest and muzzle, bright amber eyes, pointed ears, and a long bushy tail that sways naturally. He wears a simple light denim jacket with rolled sleeves over a soft cream t-shirt and comfortable cargo shorts. Personality: curious, warm, slightly playful and soft-spoken.\nLocation: Starts on a wooden footbridge over a clear mountain stream in a lush temperate forest, surrounded by mossy rocks, ferns, wildflowers, and overhanging maple and pine branches. Soft green and golden foliage, clear water with gentle ripples and small fish darting below.\nSequence (exactly 30 seconds, continuous take with timestamps):\n0:00 – 0:05\nEmber lifts the camera, smiles softly at the lens with his ears perking up, and says in a warm, slightly raspy voice:\n“Hey friends… you won’t believe this spot I found.”\n0:05 – 0:13\nHe walks slowly along the wooden bridge, lowering the camera slightly to show the clear stream and small fish swimming just below the surface while continuing:\n“The water is so clear… I can see every little fish moving around.”\n0:13 – 0:20\nHe crouches carefully at the edge, reaches one paw toward the water without touching it, and watches the fish dart past, laughing lightly:\n“They’re swimming right up to me. Hi little guys.”\n0:20 – 0:26\nHe turns the camera to capture both his face and the stream, then sits on a flat mossy rock at the water’s edge, letting his tail curl beside him. He gazes at the water for a few seconds and says quietly:\n“Moments like this make everything feel peaceful.”\n0:26 – 0:30\nHe stands up, waves one paw at the camera with a gentle smile, and says:\n“Thanks for exploring with me. See you next time.”\nThe camera naturally lowers a little as he walks further along the path beside the stream.",
+  "model": "seedance-2.5",
+  "category": [
+    "ugc",
+    "other"
+  ],
+  "language": "en",
+  "author": {
+    "name": "Mr Das",
+    "x_handle": "@MrDasOnX",
+    "profile_url": "https://x.com/MrDasOnX"
+  },
+  "source": {
+    "platform": "x",
+    "url": "https://x.com/MrDasOnX/status/2089969922617266257",
+    "posted_at": "2026-08-19T06:57:13Z",
+    "likes": 737,
+    "reposts": 72,
+    "views": 19040
+  },
+  "media": {
+    "video_url": "",
+    "thumb_url": "",
+    "duration_sec": null
+  },
+  "tags": [
+    "anthropomorphic",
+    "vlog",
+    "forest",
+    "dialogue",
+    "continuous-take"
+  ],
+  "score": 20.3,
+  "collected_at": "2026-08-20T12:00:00Z",
+  "featured": false,
+  "notes": "30s continuous action-cam selfie vlog with speaking fox character."
+}

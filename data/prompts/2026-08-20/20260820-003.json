@@ -1,0 +1,39 @@
+{
+  "id": "20260820-003",
+  "title": "Holographic Frame Dance Cyberpunk Transformation",
+  "prompt": "Setting: A cozy modern indoor room with warm ambient lighting, stylish wall posters, a hanging pendant lamp, and contemporary furniture, filmed with a cinematic handheld camera look.\n\nSubject: A young woman with long dark hair wearing a gray oversized hooded jacket performs a smooth, rhythmic choreographed hand-and-body dance directly in front of the camera. Her movements are expressive, precise, and naturally synchronized with the visual effects.\n\nKey Visual Effects:\n\nHolographic Framing & Transitions: As she moves her hands to create triangles, rectangles, circles, and other geometric frames around her face and body, glowing holographic outlines appear in the air. Each frame activates a different visual world inside it, reacting instantly to her hand movements.\n\nFuturistic Cyberpunk Style: The first frames reveal a futuristic digital version of the woman with glowing neon accents, subtle facial tracking, holographic particles, and a high-tech cyberpunk city environment.\n\nNeon Transformation: As the dance progresses, the visuals evolve into a bold futuristic superhero-inspired aesthetic with luminous clothing details, glowing energy effects, neon skyscrapers, rain reflections, and animated light trails surrounding her digital counterpart.\n\nThe holographic worlds continuously morph, rotate, and expand with every gesture. Digital particles flow between the real and virtual environments, creating seamless transitions where parts of the futuristic world briefly appear in the real room before dissolving back into reality.\n\nEnding: The final geometric frame closes around her face, the holographic effects rapidly fade away, and everything smoothly returns to the original cozy room, leaving only subtle glowing particles as she finishes her final pose.",
+  "model": "seedance-2.5",
+  "category": [
+    "vfx",
+    "cinematic"
+  ],
+  "language": "en",
+  "author": {
+    "name": "Aqsa",
+    "x_handle": "@Aqsahere_",
+    "profile_url": "https://x.com/Aqsahere_"
+  },
+  "source": {
+    "platform": "x",
+    "url": "https://x.com/Aqsahere_/status/2087386090315616601",
+    "posted_at": "2026-08-12T03:50:00Z",
+    "likes": 563,
+    "reposts": 52,
+    "views": 40086
+  },
+  "media": {
+    "video_url": "",
+    "thumb_url": "",
+    "duration_sec": null
+  },
+  "tags": [
+    "dance",
+    "hologram",
+    "cyberpunk",
+    "handheld"
+  ],
+  "score": 19.8,
+  "collected_at": "2026-08-20T12:00:00Z",
+  "featured": false,
+  "notes": "Strong VFX hand-triggered holographic world transitions."
+}

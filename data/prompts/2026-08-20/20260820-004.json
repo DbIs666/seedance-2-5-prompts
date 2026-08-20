@@ -1,0 +1,40 @@
+{
+  "id": "20260820-004",
+  "title": "Magical Mud Jar Bird Emergence",
+  "prompt": "Use the uploaded image as the exact visual reference. Create a highly detailed, cinematic 10-second magical transformation video. Keep the overall composition, character appearance, lighting, camera quality, and environment consistent with the reference.\n\n⏱️ 0–2 seconds — Jar & Mud\nThe subject is holding a small transparent glass jar/container carefully in both hands. Inside the jar is thick, dark, moist magical mud/soil with realistic texture. The camera slowly pushes toward the jar, focusing on the mud. Tiny particles of soil begin to move naturally.\n\n🌱 2–5 seconds — Mud Comes Alive\nThe mud inside the jar starts gently swirling and rising as if something is forming underneath it. Small cracks appear across the surface of the mud. Tiny pieces of soil lift into the air and fall naturally. A subtle magical glow begins to emerge from inside the mud, while keeping the scene photorealistic rather than cartoonish.\n\n🐣 5–8 seconds — Bird Emerges\nA small realistic bird slowly emerges from the mud inside the jar. First, its tiny head appears, followed by its neck, wings, and body. Wet mud naturally falls away from its feathers as it comes out. The bird gradually becomes fully formed, with extremely detailed feathers, realistic eyes, tiny beak, and natural movements. The emergence should feel magical but physically believable.\n\n🐦 8–10 seconds — Final Moment\nThe bird completely emerges from the mud and gently spreads its wings. A few tiny pieces of mud fall back into the jar. The bird looks around naturally and gives a subtle wing movement. The camera finishes with a beautiful close-up of the bird sitting on/above the mud inside the jar, creating a mysterious and magical final shot.\n\n🎥 CAMERA & VISUAL STYLE\n\nDuration: 10 seconds\nFormat: 9:16 vertical\nUltra-photorealistic\nCinematic fantasy realism\nSmooth slow camera movement\nMacro-style detail on mud and feathers\nRealistic depth of field\nNatural lighting and shadows\nDetailed glass reflections\nRealistic mud physics\nSmooth motion with strong temporal consistency\nNo sudden camera movements\nNo cuts\nNo transitions\nNo camera shake\n\n🪶 BIRD DETAILS\n\nThe bird should look completely realistic:\n\nExtremely detailed individual feathers\nNatural feather movement\nRealistic eyes and beak\nCorrect bird anatomy\nNatural wing structure\nRealistic proportions\nWet mud sticking temporarily to feathers\nMud naturally falling away as the bird emerges\nSubtle breathing and head movement\nNatural wing movement\n\n🚫 NEGATIVE PROMPT\n\ncartoon, anime, CGI-looking bird, fake feathers, deformed bird, malformed wings, extra wings, extra legs, extra eyes, multiple birds, duplicate bird, bird suddenly appearing, bird teleportation, unnatural bird anatomy, giant bird, oversized bird, disappearing bird, distorted mud, floating mud, unrealistic mud physics, excessive magic effects, cartoon magic, excessive glowing particles, explosions, smoke, fire, distorted jar, broken glass, melting glass, changing jar shape, extra hands, deformed fingers, missing fingers, distorted hands, face distortion, blurry, low resolution, pixelated, oversaturated, excessive bloom, excessive lens flare, camera shake, fast zoom, sudden movement, flickering, ghosting, frame interpolation artifacts, object morphing, inconsistent lighting, watermark, logo, text, subtitles, UI elements.\n\n✨ FINAL QUALITY\n\nPhotorealistic cinematic fantasy, highly detailed wet mud, realistic glass, physically accurate lighting, natural bird anatomy, extremely detailed feathers, believable mud-to-bird transformation, smooth 10-second animation, consistent objects and environment, premium cinematic quality, realistic depth of field, 4K-quality detail.",
+  "model": "seedance-2.5",
+  "category": [
+    "vfx",
+    "cinematic"
+  ],
+  "language": "en",
+  "author": {
+    "name": "Ehaan",
+    "x_handle": "@Yesandyou_",
+    "profile_url": "https://x.com/Yesandyou_"
+  },
+  "source": {
+    "platform": "x",
+    "url": "https://x.com/Yesandyou_/status/2090075447195480403",
+    "posted_at": "2026-08-19T13:56:32Z",
+    "likes": 370,
+    "reposts": 71,
+    "views": 9009
+  },
+  "media": {
+    "video_url": "",
+    "thumb_url": "",
+    "duration_sec": null
+  },
+  "tags": [
+    "transformation",
+    "macro",
+    "bird",
+    "fantasy",
+    "negative-prompt"
+  ],
+  "score": 19.1,
+  "collected_at": "2026-08-20T12:00:00Z",
+  "featured": false,
+  "notes": "10s vertical transformation with detailed negative prompt; needs image ref."
+}

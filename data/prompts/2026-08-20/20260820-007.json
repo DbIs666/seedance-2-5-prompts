@@ -1,0 +1,39 @@
+{
+  "id": "20260820-007",
+  "title": "Streetwear Ballet Dive into Underwater City",
+  "prompt": "Young East Asian woman in modern black streetwear, headphones, white gloves, and teal ballet pointe shoes, photorealistic.\nSHOT 1\nShe stands beside a swimming pool overlooking the city, smiles and says, \"Wanna see something crazy?\" She jumps into the water and instantly begins descending into a glowing underwater world.\nSHOT 2\nShe swims through a futuristic underwater city filled with glowing buildings, giant manta rays, floating vehicles, and colorful coral. She spins effortlessly through the water while the camera follows.\nSHOT 3\nShe discovers a massive glowing underwater portal, touches it, and suddenly launches upward through the ocean. She bursts back onto the surface at sunset, laughs, and looks directly into the camera.",
+  "model": "seedance-2.5",
+  "category": [
+    "cinematic",
+    "vfx"
+  ],
+  "language": "en",
+  "author": {
+    "name": "Smiling Khan",
+    "x_handle": "@AIwithkhan",
+    "profile_url": "https://x.com/AIwithkhan"
+  },
+  "source": {
+    "platform": "x",
+    "url": "https://x.com/AIwithkhan/status/2085949437181063645",
+    "posted_at": "2026-08-08T04:41:15Z",
+    "likes": 101,
+    "reposts": 8,
+    "views": 10598
+  },
+  "media": {
+    "video_url": "",
+    "thumb_url": "",
+    "duration_sec": null
+  },
+  "tags": [
+    "underwater",
+    "portal",
+    "multi-shot",
+    "streetwear"
+  ],
+  "score": 13.9,
+  "collected_at": "2026-08-20T12:00:00Z",
+  "featured": false,
+  "notes": "Three-shot fantasy transition from pool jump to underwater city."
+}

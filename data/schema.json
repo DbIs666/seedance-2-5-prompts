@@ -1,0 +1,119 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/local/seedance-2-5-prompts/data/schema.json",
+  "title": "SeedancePrompt",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "prompt",
+    "model",
+    "category",
+    "language",
+    "author",
+    "source",
+    "collected_at"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[0-9]{8}-[0-9]{3}$",
+      "description": "YYYYMMDD-NNN, zero-padded sequence for that day"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 8,
+      "maxLength": 160
+    },
+    "prompt": {
+      "type": "string",
+      "minLength": 20,
+      "description": "Full copy-paste ready prompt text"
+    },
+    "model": {
+      "type": "string",
+      "enum": ["seedance-2.5", "seedance-2.0", "seedance-2.x"]
+    },
+    "model_notes": {
+      "type": "string",
+      "description": "Optional notes on 2.5 vs 2.0 behavior"
+    },
+    "category": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 3,
+      "items": {
+        "type": "string",
+        "enum": [
+          "cinematic",
+          "ads",
+          "ugc",
+          "anime",
+          "drama",
+          "vfx",
+          "product",
+          "meme",
+          "other"
+        ]
+      }
+    },
+    "language": {
+      "type": "string",
+      "enum": ["en", "zh", "mixed", "other"]
+    },
+    "author": {
+      "type": "object",
+      "required": ["name"],
+      "properties": {
+        "name": { "type": "string" },
+        "x_handle": { "type": "string" },
+        "profile_url": { "type": "string" }
+      }
+    },
+    "source": {
+      "type": "object",
+      "required": ["platform", "url"],
+      "properties": {
+        "platform": {
+          "type": "string",
+          "enum": ["x", "web", "community", "official", "other"]
+        },
+        "url": { "type": "string" },
+        "posted_at": { "type": "string" },
+        "likes": { "type": "integer", "minimum": 0 },
+        "reposts": { "type": "integer", "minimum": 0 },
+        "views": { "type": "integer", "minimum": 0 },
+        "bookmarks": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "media": {
+      "type": "object",
+      "properties": {
+        "video_url": { "type": "string" },
+        "thumb_url": { "type": "string" },
+        "duration_sec": { "type": "number" }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "score": {
+      "type": "number",
+      "description": "Computed popularity score; optional if engagement unknown"
+    },
+    "collected_at": {
+      "type": "string",
+      "description": "ISO-8601 datetime when added to this repo"
+    },
+    "featured": {
+      "type": "boolean",
+      "default": false
+    },
+    "notes": {
+      "type": "string",
+      "description": "Curator notes (English)"
+    }
+  },
+  "additionalProperties": false
+}
