@@ -28,11 +28,19 @@ Do **not** invent viral stats. Do **not** fabricate source URLs. Do **not** rewr
 1. **Intake** — read what the user provided (links, screenshots, pasted prompts, handles, like counts).
 2. **Validate** each candidate against [§3 Acceptance](#3-acceptance-criteria).
 3. **Assign IDs** using [§4 ID rules](#4-id-and-file-rules).
-4. **Write one JSON file per prompt** under `data/prompts/YYYY-MM-DD/`.
-5. **Rebuild index** — run `python scripts/generate_readme.py` (updates `data/index.json`, `README.md`, `daily/*.md`, `categories/*.md`, `CHANGELOG.md`).
-6. **Report** — tell the user what was added, skipped, and why (in English or Chinese matching the user).
+4. **Fetch metadata** — for every X/Twitter URL, pull author profile, engagement, **video URL**, and **thumbnail** (e.g. fxtwitter / similar). Never leave `author.profile_url` empty when the handle is known.
+5. **Write one JSON file per prompt** under `data/prompts/YYYY-MM-DD/` (full card fields — see §5).
+6. **Rebuild index** — run `python scripts/generate_readme.py` (updates `data/index.json`, `README.md`, `daily/*.md`, `categories/*.md`, `CHANGELOG.md` into **rich cards**).
+7. **Report** — tell the user what was added, skipped, and why (in English or Chinese matching the user). Mention whether each card has thumb/video.
 
 If the generate script cannot run, still write the JSON files correctly and note that docs need regeneration.
+
+Optional media refresh for existing files:
+
+```bash
+python scripts/enrich_media.py
+python scripts/generate_readme.py
+```
 
 ---
 
@@ -114,9 +122,9 @@ Every new file **must** include:
     "views": 0
   },
   "media": {
-    "video_url": "",
-    "thumb_url": "",
-    "duration_sec": null
+    "video_url": "https://video.twimg.com/...",
+    "thumb_url": "https://pbs.twimg.com/...",
+    "duration_sec": 10.0
   },
   "tags": [],
   "score": 0,
@@ -132,6 +140,13 @@ Every new file **must** include:
 - **prompt**: Preserve creator wording. Fix only broken whitespace/fences. Do not translate unless user asks; if you add an English title only, keep prompt original.
 - **category**: 1–3 of: `cinematic`, `ads`, `ugc`, `anime`, `drama`, `vfx`, `product`, `meme`, `other`
 - **language**: language of the **prompt text** (`en` / `zh` / `mixed` / `other`)
+- **author.profile_url**: **required when handle is known** — always `https://x.com/<handle>` so cards can link the creator.
+- **author.x_handle**: include leading `@`.
+- **source.url**: canonical post URL (preferred over profile-only attribution).
+- **media.thumb_url**: **fill whenever the post has video/image**. Used as the card hero image. Prefer `pbs.twimg.com` amplify/video thumbs from the post.
+- **media.video_url**: direct mp4 when available (e.g. `video.twimg.com`). Prefer higher bitrate variant. Note: CDN links may expire; `source.url` remains the durable watch link.
+- **media.duration_sec**: seconds if known, else `null`.
+- **Do not** commit large video binaries into git; store URLs only (or optional GitHub Release assets later).
 - **score**: if engagement known, compute roughly:
 
 ```text
@@ -142,6 +157,19 @@ Round to 1 decimal. If unknown, use `0` and explain in notes if needed.
 
 - **featured**: `true` only for exceptional quality or user-marked picks.
 - **notes**: curator remarks in **English** (e.g. “Strong multi-shot timing; works on 2.5”).
+
+### Card rendering (automatic)
+
+`scripts/generate_readme.py` turns each JSON into a **rich card** on `README.md`, `daily/*.md`, and `categories/*.md`:
+
+| Block | From fields |
+|-------|-------------|
+| Badges | `model`, `language`, `category`, `featured` |
+| Prompt | `prompt` |
+| Video | `media.thumb_url` + link to `media.video_url` or `source.url` |
+| Details | `author.*`, `source.url`, engagement, tags |
+
+After every add/edit batch, regenerate so cards stay in sync. If media was skipped at write time, run `python scripts/enrich_media.py` then regenerate.
 
 Schema reference: `data/schema.json`.
 

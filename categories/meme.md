@@ -8,9 +8,11 @@ Prompts tagged `meme`. Primary focus: Seedance 2.5 (2.0 compatible).
 
 ### 1950s Diner Bullet-Time Milkshake Spill
 
+![model](https://img.shields.io/badge/Seedance-2.5-0ea5e9) ![lang](https://img.shields.io/badge/lang-English-blue) ![cat](https://img.shields.io/badge/cinematic-1e293b) ![cat](https://img.shields.io/badge/vfx-1e293b) ![cat](https://img.shields.io/badge/meme-1e293b)
+
 `20260820-010` · `seedance-2.5` · cinematic, vfx, meme
 
-**Prompt:**
+#### Prompt
 
 ```text
 Bullet Time effect
@@ -19,15 +21,29 @@ Replace him with her and her with him in this prompt
 In short replace man with girl in the reference image
 ```
 
-| Field | Value |
-|-------|-------|
-| Author | Smiling Khan ([@AIwithkhan](https://x.com/AIwithkhan)) |
-| Source | [Original post](https://x.com/AIwithkhan/status/2090306815833899065) |
-| Engagement | ❤ 91 · 🔁 5 · 👁 9200 · score 13.0 |
-| Collected | 2026-08-20T12:00:00Z |
-| Tags | bullet-time, diner, slow-motion, orbit, comedy |
+#### Video
 
-> Note: Bullet-time diner gag with freeze/rewind; optional gender swap note at end.
+<div align="center">
+
+<a href="https://video.twimg.com/amplify_video/2090306745222729730/vid/avc1/1280x720/YQfTr28ScjorUuFk.mp4?tag=29">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090306745222729730/img/XeEidCvLwcX_3N8v.jpg" width="680" alt="1950s Diner Bullet-Time Milkshake Spill" style="border-radius:12px;max-width:100%;">
+</a>
+
+**[▶ Watch video](https://video.twimg.com/amplify_video/2090306745222729730/vid/avc1/1280x720/YQfTr28ScjorUuFk.mp4?tag=29)** · **[↗ View on X](https://x.com/AIwithkhan/status/2090306815833899065)**
+
+*Click image to open the video · X CDN links may expire; use the post if needed.*
+
+</div>
+
+#### Details
+
+- **Author:** [Smiling Khan](https://x.com/AIwithkhan) ([@AIwithkhan](https://x.com/AIwithkhan))
+- **Source:** [X Post](https://x.com/AIwithkhan/status/2090306815833899065)
+- **Published:** Aug 20, 2026
+- **Engagement:** ❤ 97 · 🔁 5 · 👁 9,301 · score `13.1`
+- **ID:** [`20260820-010`](data/prompts/2026-08-20/20260820-010.json)
+- **Tags:** `bullet-time`, `diner`, `slow-motion`, `orbit`, `comedy`
+- **Notes:** Bullet-time diner gag with freeze/rewind; optional gender swap note at end.
 
 
 [← Back to README](../README.md)

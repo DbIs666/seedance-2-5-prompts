@@ -8,9 +8,11 @@ Prompts tagged `ads`. Primary focus: Seedance 2.5 (2.0 compatible).
 
 ### Luxury Bedroom UGC Sunglasses and Earbuds Ad
 
+![model](https://img.shields.io/badge/Seedance-2.5-0ea5e9) ![lang](https://img.shields.io/badge/lang-English-blue) ![cat](https://img.shields.io/badge/ugc-1e293b) ![cat](https://img.shields.io/badge/ads-1e293b) ![cat](https://img.shields.io/badge/product-1e293b)
+
 `20260820-005` · `seedance-2.5` · ugc, ads, product
 
-**Prompt:**
+#### Prompt
 
 ```text
 Use the uploaded reference image as the exact character and product reference. Preserve the woman’s facial identity, hairstyle, eye color, makeup, skin tone, body proportions, jewelry, and overall appearance consistently throughout the entire video. Change her outfit to a fitted sleeveless PINK top with clean WHITE shorts and keep the outfit identical in every shot. Use the uploaded sunglasses, earbuds, orange retail packaging, and carrying cases as LOCKED product references. Preserve their exact shapes, colors, materials, proportions, buttons, lenses, hinges, charging case, textures, and every visible product detail. Do not redesign, replace, or invent any product elements.
@@ -43,15 +45,29 @@ End with a slow, smooth cinematic push-in toward the sunglasses, earbuds, orange
 Visual direction: Ultra-realistic UGC, authentic influencer energy, natural facial expressions, perfect lip synchronization, realistic hand anatomy and movements, physically accurate product interaction, premium fashion/lifestyle aesthetic, detailed macro product shots, accurate lens reflections, realistic materials and textures, warm golden-hour lighting, handheld smartphone cinematography, subtle focus breathing, natural exposure changes, 4K HDR, cinematic depth of field.
 ```
 
-| Field | Value |
-|-------|-------|
-| Author | Synthia ([@AIwithSynthia](https://x.com/AIwithSynthia)) |
-| Source | [Original post](https://x.com/AIwithSynthia/status/2089932434351734933) |
-| Engagement | ❤ 124 · 🔁 6 · 👁 11140 · score 13.7 |
-| Collected | 2026-08-20T12:00:00Z |
-| Tags | ugc, product-lock, golden-hour, dialogue, review |
+#### Video
 
-> Note: 30s UGC lifestyle ad with locked product refs and timed dialogue.
+<div align="center">
+
+<a href="https://video.twimg.com/amplify_video/2089932382531133440/vid/avc1/1280x720/nxlaQ9dab0eCYel2.mp4?tag=29">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089932382531133440/img/k05-QTjlyxToORTd.jpg" width="680" alt="Luxury Bedroom UGC Sunglasses and Earbuds Ad" style="border-radius:12px;max-width:100%;">
+</a>
+
+**[▶ Watch video](https://video.twimg.com/amplify_video/2089932382531133440/vid/avc1/1280x720/nxlaQ9dab0eCYel2.mp4?tag=29)** · **[↗ View on X](https://x.com/AIwithSynthia/status/2089932434351734933)**
+
+*Click image to open the video · X CDN links may expire; use the post if needed.*
+
+</div>
+
+#### Details
+
+- **Author:** [Synthia](https://x.com/AIwithSynthia) ([@AIwithSynthia](https://x.com/AIwithSynthia))
+- **Source:** [X Post](https://x.com/AIwithSynthia/status/2089932434351734933)
+- **Published:** Aug 19, 2026
+- **Engagement:** ❤ 124 · 🔁 6 · 👁 11.2K · score `13.7`
+- **ID:** [`20260820-005`](data/prompts/2026-08-20/20260820-005.json)
+- **Tags:** `ugc`, `product-lock`, `golden-hour`, `dialogue`, `review`
+- **Notes:** 30s UGC lifestyle ad with locked product refs and timed dialogue.
 
 
 [← Back to README](../README.md)

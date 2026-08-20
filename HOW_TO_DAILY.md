@@ -57,11 +57,19 @@ Regenerate README
 ## What the agent will do
 
 1. Validate quality (full prompt, attribution, not duplicate)
-2. Write `data/prompts/YYYY-MM-DD/YYYYMMDD-NNN.json`
-3. Run `python scripts/generate_readme.py`
-4. Refresh `README.md`, `daily/…`, `categories/…`, `CHANGELOG.md`
+2. Fetch **author X profile**, engagement, **video URL**, and **thumbnail** when the source is an X post
+3. Write `data/prompts/YYYY-MM-DD/YYYYMMDD-NNN.json` (including `media.thumb_url` / `media.video_url`)
+4. Run `python scripts/generate_readme.py`
+5. Refresh `README.md`, `daily/…`, `categories/…` as **rich cards** (prompt + author link + source + video thumb)
 
 Detailed rules: [`AGENTS.md`](AGENTS.md)
+
+If thumbs are missing later:
+
+```bash
+python scripts/enrich_media.py
+python scripts/generate_readme.py
+```
 
 ---
 

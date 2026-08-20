@@ -8,9 +8,11 @@ Prompts tagged `other`. Primary focus: Seedance 2.5 (2.0 compatible).
 
 ### Curious Fox Mountain Stream Selfie Vlog
 
+![model](https://img.shields.io/badge/Seedance-2.5-0ea5e9) ![lang](https://img.shields.io/badge/lang-English-blue) ![cat](https://img.shields.io/badge/ugc-1e293b) ![cat](https://img.shields.io/badge/other-1e293b)
+
 `20260820-002` · `seedance-2.5` · ugc, other
 
-**Prompt:**
+#### Prompt
 
 ```text
 Create a single continuous self-filmed vlog recorded on a handheld action camera in 16:9 aspect ratio. The camera is always held by the anthropomorphic fox, creating a natural first-person selfie perspective with light wind-induced shake, occasional soft lens flares from sunlight filtering through trees, realistic focus pulls, and dynamic walking/leaning motion. No cuts, transitions, or cinematic effects. Include a subtle realistic digital timestamp in the bottom-right corner that progresses naturally throughout the video.
@@ -36,15 +38,29 @@ He stands up, waves one paw at the camera with a gentle smile, and says:
 The camera naturally lowers a little as he walks further along the path beside the stream.
 ```
 
-| Field | Value |
-|-------|-------|
-| Author | Mr Das ([@MrDasOnX](https://x.com/MrDasOnX)) |
-| Source | [Original post](https://x.com/MrDasOnX/status/2089969922617266257) |
-| Engagement | ❤ 737 · 🔁 72 · 👁 19040 · score 20.3 |
-| Collected | 2026-08-20T12:00:00Z |
-| Tags | anthropomorphic, vlog, forest, dialogue, continuous-take |
+#### Video
 
-> Note: 30s continuous action-cam selfie vlog with speaking fox character.
+<div align="center">
+
+<a href="https://video.twimg.com/amplify_video/2089969759790219264/vid/avc1/1280x720/eowlfnlm0N8zj6pJ.mp4?tag=29">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089969759790219264/img/-Lx4G6Th-EFd-F_H.jpg" width="680" alt="Curious Fox Mountain Stream Selfie Vlog" style="border-radius:12px;max-width:100%;">
+</a>
+
+**[▶ Watch video](https://video.twimg.com/amplify_video/2089969759790219264/vid/avc1/1280x720/eowlfnlm0N8zj6pJ.mp4?tag=29)** · **[↗ View on X](https://x.com/MrDasOnX/status/2089969922617266257)**
+
+*Click image to open the video · X CDN links may expire; use the post if needed.*
+
+</div>
+
+#### Details
+
+- **Author:** [Mr Das](https://x.com/MrDasOnX) ([@MrDasOnX](https://x.com/MrDasOnX))
+- **Source:** [X Post](https://x.com/MrDasOnX/status/2089969922617266257)
+- **Published:** Aug 19, 2026
+- **Engagement:** ❤ 737 · 🔁 72 · 👁 19.1K · score `20.3`
+- **ID:** [`20260820-002`](data/prompts/2026-08-20/20260820-002.json)
+- **Tags:** `anthropomorphic`, `vlog`, `forest`, `dialogue`, `continuous-take`
+- **Notes:** 30s continuous action-cam selfie vlog with speaking fox character.
 
 
 [← Back to README](../README.md)

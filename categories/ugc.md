@@ -8,9 +8,11 @@ Prompts tagged `ugc`. Primary focus: Seedance 2.5 (2.0 compatible).
 
 ### Indonesian Neighborhood Home-Video Vlog ⭐
 
+![model](https://img.shields.io/badge/Seedance-2.5-0ea5e9) ![lang](https://img.shields.io/badge/lang-English-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold) ![cat](https://img.shields.io/badge/ugc-1e293b) ![cat](https://img.shields.io/badge/cinematic-1e293b)
+
 `20260820-001` · `seedance-2.5` · ugc, cinematic
 
-**Prompt:**
+#### Prompt
 
 ```text
 Main subject: young Indonesian woman, early 20s, natural everyday appearance, faded mustard-yellow oversized cotton t-shirt, brown high-waisted linen wrap skirt reaching just below the knee, simple brown leather slide sandals, thin gold stud earrings, dark wavy hair in a messy low bun with loose wispy strands framing her face. Realistic warm brown skin texture, minimal natural makeup, warm and approachable demeanor. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video.
@@ -38,23 +40,39 @@ Audio: Hyper-detailed environmental ASMR binaural audio — crisp micro-sounds c
 Goal: Authentic Indonesian neighborhood life captured like a forgotten home video from the early 2000s — candid, imperfect, realistic, warm, and deeply believable, with immersive environmental ASMR soundscape.
 ```
 
-| Field | Value |
-|-------|-------|
-| Author | Rishua ([@RishuaVR](https://x.com/RishuaVR)) |
-| Source | [Original post](https://x.com/RishuaVR/status/2089204108175741157) |
-| Engagement | ❤ 4744 · 🔁 413 · 👁 3508866 · score 28.0 |
-| Collected | 2026-08-20T12:00:00Z |
-| Tags | documentary, indonesia, handheld, asmr, slice-of-life |
+#### Video
 
-> Note: Ultra-detailed timed home-video prompt; top engagement in this batch.
+<div align="center">
+
+<a href="https://video.twimg.com/amplify_video/2089204070997532672/vid/avc1/1280x720/tqcN58TfdD156uJn.mp4?tag=29">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089204070997532672/img/UAx5Q6w1RA3C8pNG.jpg" width="680" alt="Indonesian Neighborhood Home-Video Vlog" style="border-radius:12px;max-width:100%;">
+</a>
+
+**[▶ Watch video](https://video.twimg.com/amplify_video/2089204070997532672/vid/avc1/1280x720/tqcN58TfdD156uJn.mp4?tag=29)** · **[↗ View on X](https://x.com/RishuaVR/status/2089204108175741157)**
+
+*Click image to open the video · X CDN links may expire; use the post if needed.*
+
+</div>
+
+#### Details
+
+- **Author:** [Rishua](https://x.com/RishuaVR) ([@RishuaVR](https://x.com/RishuaVR))
+- **Source:** [X Post](https://x.com/RishuaVR/status/2089204108175741157)
+- **Published:** Aug 17, 2026
+- **Engagement:** ❤ 4,750 · 🔁 413 · 👁 3.5M · score `28.0`
+- **ID:** [`20260820-001`](data/prompts/2026-08-20/20260820-001.json)
+- **Tags:** `documentary`, `indonesia`, `handheld`, `asmr`, `slice-of-life`
+- **Notes:** Ultra-detailed timed home-video prompt; top engagement in this batch.
 
 ---
 
 ### Curious Fox Mountain Stream Selfie Vlog
 
+![model](https://img.shields.io/badge/Seedance-2.5-0ea5e9) ![lang](https://img.shields.io/badge/lang-English-blue) ![cat](https://img.shields.io/badge/ugc-1e293b) ![cat](https://img.shields.io/badge/other-1e293b)
+
 `20260820-002` · `seedance-2.5` · ugc, other
 
-**Prompt:**
+#### Prompt
 
 ```text
 Create a single continuous self-filmed vlog recorded on a handheld action camera in 16:9 aspect ratio. The camera is always held by the anthropomorphic fox, creating a natural first-person selfie perspective with light wind-induced shake, occasional soft lens flares from sunlight filtering through trees, realistic focus pulls, and dynamic walking/leaning motion. No cuts, transitions, or cinematic effects. Include a subtle realistic digital timestamp in the bottom-right corner that progresses naturally throughout the video.
@@ -80,23 +98,39 @@ He stands up, waves one paw at the camera with a gentle smile, and says:
 The camera naturally lowers a little as he walks further along the path beside the stream.
 ```
 
-| Field | Value |
-|-------|-------|
-| Author | Mr Das ([@MrDasOnX](https://x.com/MrDasOnX)) |
-| Source | [Original post](https://x.com/MrDasOnX/status/2089969922617266257) |
-| Engagement | ❤ 737 · 🔁 72 · 👁 19040 · score 20.3 |
-| Collected | 2026-08-20T12:00:00Z |
-| Tags | anthropomorphic, vlog, forest, dialogue, continuous-take |
+#### Video
 
-> Note: 30s continuous action-cam selfie vlog with speaking fox character.
+<div align="center">
+
+<a href="https://video.twimg.com/amplify_video/2089969759790219264/vid/avc1/1280x720/eowlfnlm0N8zj6pJ.mp4?tag=29">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089969759790219264/img/-Lx4G6Th-EFd-F_H.jpg" width="680" alt="Curious Fox Mountain Stream Selfie Vlog" style="border-radius:12px;max-width:100%;">
+</a>
+
+**[▶ Watch video](https://video.twimg.com/amplify_video/2089969759790219264/vid/avc1/1280x720/eowlfnlm0N8zj6pJ.mp4?tag=29)** · **[↗ View on X](https://x.com/MrDasOnX/status/2089969922617266257)**
+
+*Click image to open the video · X CDN links may expire; use the post if needed.*
+
+</div>
+
+#### Details
+
+- **Author:** [Mr Das](https://x.com/MrDasOnX) ([@MrDasOnX](https://x.com/MrDasOnX))
+- **Source:** [X Post](https://x.com/MrDasOnX/status/2089969922617266257)
+- **Published:** Aug 19, 2026
+- **Engagement:** ❤ 737 · 🔁 72 · 👁 19.1K · score `20.3`
+- **ID:** [`20260820-002`](data/prompts/2026-08-20/20260820-002.json)
+- **Tags:** `anthropomorphic`, `vlog`, `forest`, `dialogue`, `continuous-take`
+- **Notes:** 30s continuous action-cam selfie vlog with speaking fox character.
 
 ---
 
 ### Luxury Bedroom UGC Sunglasses and Earbuds Ad
 
+![model](https://img.shields.io/badge/Seedance-2.5-0ea5e9) ![lang](https://img.shields.io/badge/lang-English-blue) ![cat](https://img.shields.io/badge/ugc-1e293b) ![cat](https://img.shields.io/badge/ads-1e293b) ![cat](https://img.shields.io/badge/product-1e293b)
+
 `20260820-005` · `seedance-2.5` · ugc, ads, product
 
-**Prompt:**
+#### Prompt
 
 ```text
 Use the uploaded reference image as the exact character and product reference. Preserve the woman’s facial identity, hairstyle, eye color, makeup, skin tone, body proportions, jewelry, and overall appearance consistently throughout the entire video. Change her outfit to a fitted sleeveless PINK top with clean WHITE shorts and keep the outfit identical in every shot. Use the uploaded sunglasses, earbuds, orange retail packaging, and carrying cases as LOCKED product references. Preserve their exact shapes, colors, materials, proportions, buttons, lenses, hinges, charging case, textures, and every visible product detail. Do not redesign, replace, or invent any product elements.
@@ -129,23 +163,39 @@ End with a slow, smooth cinematic push-in toward the sunglasses, earbuds, orange
 Visual direction: Ultra-realistic UGC, authentic influencer energy, natural facial expressions, perfect lip synchronization, realistic hand anatomy and movements, physically accurate product interaction, premium fashion/lifestyle aesthetic, detailed macro product shots, accurate lens reflections, realistic materials and textures, warm golden-hour lighting, handheld smartphone cinematography, subtle focus breathing, natural exposure changes, 4K HDR, cinematic depth of field.
 ```
 
-| Field | Value |
-|-------|-------|
-| Author | Synthia ([@AIwithSynthia](https://x.com/AIwithSynthia)) |
-| Source | [Original post](https://x.com/AIwithSynthia/status/2089932434351734933) |
-| Engagement | ❤ 124 · 🔁 6 · 👁 11140 · score 13.7 |
-| Collected | 2026-08-20T12:00:00Z |
-| Tags | ugc, product-lock, golden-hour, dialogue, review |
+#### Video
 
-> Note: 30s UGC lifestyle ad with locked product refs and timed dialogue.
+<div align="center">
+
+<a href="https://video.twimg.com/amplify_video/2089932382531133440/vid/avc1/1280x720/nxlaQ9dab0eCYel2.mp4?tag=29">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089932382531133440/img/k05-QTjlyxToORTd.jpg" width="680" alt="Luxury Bedroom UGC Sunglasses and Earbuds Ad" style="border-radius:12px;max-width:100%;">
+</a>
+
+**[▶ Watch video](https://video.twimg.com/amplify_video/2089932382531133440/vid/avc1/1280x720/nxlaQ9dab0eCYel2.mp4?tag=29)** · **[↗ View on X](https://x.com/AIwithSynthia/status/2089932434351734933)**
+
+*Click image to open the video · X CDN links may expire; use the post if needed.*
+
+</div>
+
+#### Details
+
+- **Author:** [Synthia](https://x.com/AIwithSynthia) ([@AIwithSynthia](https://x.com/AIwithSynthia))
+- **Source:** [X Post](https://x.com/AIwithSynthia/status/2089932434351734933)
+- **Published:** Aug 19, 2026
+- **Engagement:** ❤ 124 · 🔁 6 · 👁 11.2K · score `13.7`
+- **ID:** [`20260820-005`](data/prompts/2026-08-20/20260820-005.json)
+- **Tags:** `ugc`, `product-lock`, `golden-hour`, `dialogue`, `review`
+- **Notes:** 30s UGC lifestyle ad with locked product refs and timed dialogue.
 
 ---
 
 ### Cinematic Morning Coffee Ritual
 
+![model](https://img.shields.io/badge/Seedance-2.5-0ea5e9) ![lang](https://img.shields.io/badge/lang-English-blue) ![cat](https://img.shields.io/badge/cinematic-1e293b) ![cat](https://img.shields.io/badge/ugc-1e293b)
+
 `20260820-006` · `seedance-2.5` · cinematic, ugc
 
-**Prompt:**
+#### Prompt
 
 ```text
 Morning Coffee Ritual 
@@ -157,15 +207,29 @@ She sits beside the window, takes a peaceful sip, and watches the morning light 
 Ultra-realistic visuals, cinematic 35mm camera, photorealistic skin and hair, natural expressions, realistic physics, smooth camera movement, warm sunlight, shallow depth of field, subtle ambient sounds, premium lifestyle-commercial aesthetic, 4K cinematic quality.
 ```
 
-| Field | Value |
-|-------|-------|
-| Author | Zeeshi ([@AIwithZeeshi](https://x.com/AIwithZeeshi)) |
-| Source | [Original post](https://x.com/AIwithZeeshi/status/2090310481970143606) |
-| Engagement | ❤ 112 · 🔁 3 · 👁 3854 · score 12.2 |
-| Collected | 2026-08-20T12:00:00Z |
-| Tags | morning, coffee, lifestyle, 35mm, physics |
+#### Video
 
-> Note: Compact 15s lifestyle commercial with fluid/steam physics emphasis.
+<div align="center">
+
+<a href="https://video.twimg.com/amplify_video/2090308732026859520/vid/avc1/1920x1080/zi1vDd8h0nkMFFfQ.mp4?tag=29">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090308732026859520/img/qjT_tozGe4Nn-QgB.jpg" width="680" alt="Cinematic Morning Coffee Ritual" style="border-radius:12px;max-width:100%;">
+</a>
+
+**[▶ Watch video](https://video.twimg.com/amplify_video/2090308732026859520/vid/avc1/1920x1080/zi1vDd8h0nkMFFfQ.mp4?tag=29)** · **[↗ View on X](https://x.com/AIwithZeeshi/status/2090310481970143606)**
+
+*Click image to open the video · X CDN links may expire; use the post if needed.*
+
+</div>
+
+#### Details
+
+- **Author:** [Zeeshi](https://x.com/AIwithZeeshi) ([@AIwithZeeshi](https://x.com/AIwithZeeshi))
+- **Source:** [X Post](https://x.com/AIwithZeeshi/status/2090310481970143606)
+- **Published:** Aug 20, 2026
+- **Engagement:** ❤ 118 · 🔁 3 · 👁 3,861 · score `12.2`
+- **ID:** [`20260820-006`](data/prompts/2026-08-20/20260820-006.json)
+- **Tags:** `morning`, `coffee`, `lifestyle`, `35mm`, `physics`
+- **Notes:** Compact 15s lifestyle commercial with fluid/steam physics emphasis.
 
 
 [← Back to README](../README.md)

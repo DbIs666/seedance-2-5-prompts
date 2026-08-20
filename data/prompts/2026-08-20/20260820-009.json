@@ -17,14 +17,14 @@
     "platform": "x",
     "url": "https://x.com/HustleXR/status/2090102574271930722",
     "posted_at": "2026-08-19T15:44:20Z",
-    "likes": 94,
+    "likes": 100,
     "reposts": 5,
-    "views": 1442
+    "views": 1482
   },
   "media": {
-    "video_url": "",
-    "thumb_url": "",
-    "duration_sec": null
+    "video_url": "https://video.twimg.com/amplify_video/2090102457644785664/vid/avc1/1280x720/0iOivP_JZkNuPZgF.mp4?tag=29",
+    "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2090102457644785664/img/MkwUQ27s-drt2IVn.jpg",
+    "duration_sec": 15.041
   },
   "tags": [
     "wuxia",
@@ -33,7 +33,7 @@
     "character-lock",
     "jar"
   ],
-  "score": 12.2,
+  "score": 12.3,
   "collected_at": "2026-08-20T12:00:00Z",
   "featured": false,
   "notes": "8 keyframe martial-arts storyboard; requires image1 character lock."

@@ -18,14 +18,14 @@
     "platform": "x",
     "url": "https://x.com/AIwithkhan/status/2090306815833899065",
     "posted_at": "2026-08-20T05:15:55Z",
-    "likes": 91,
+    "likes": 97,
     "reposts": 5,
-    "views": 9200
+    "views": 9301
   },
   "media": {
-    "video_url": "",
-    "thumb_url": "",
-    "duration_sec": null
+    "video_url": "https://video.twimg.com/amplify_video/2090306745222729730/vid/avc1/1280x720/YQfTr28ScjorUuFk.mp4?tag=29",
+    "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/2090306745222729730/img/XeEidCvLwcX_3N8v.jpg",
+    "duration_sec": 30.08
   },
   "tags": [
     "bullet-time",
@@ -34,7 +34,7 @@
     "orbit",
     "comedy"
   ],
-  "score": 13.0,
+  "score": 13.1,
   "collected_at": "2026-08-20T12:00:00Z",
   "featured": false,
   "notes": "Bullet-time diner gag with freeze/rewind; optional gender swap note at end."

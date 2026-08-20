@@ -8,9 +8,11 @@ Prompts tagged `drama`. Primary focus: Seedance 2.5 (2.0 compatible).
 
 ### Wuxia Village Courtyard Eight-Frame Storyboard Fight
 
+![model](https://img.shields.io/badge/Seedance-2.5-0ea5e9) ![lang](https://img.shields.io/badge/lang-English-blue) ![cat](https://img.shields.io/badge/cinematic-1e293b) ![cat](https://img.shields.io/badge/drama-1e293b)
+
 `20260820-009` · `seedance-2.5` · cinematic, drama
 
-**Prompt:**
+#### Prompt
 
 ```text
 ️
@@ -49,15 +51,29 @@ Fast lateral tracking composition. Attacker three reels backward from a spinning
 FRAME 6 — 12.5–15s | TWO ATTACKERS RUSH
 ```
 
-| Field | Value |
-|-------|-------|
-| Author | Zayan ([@HustleXR](https://x.com/HustleXR)) |
-| Source | [Original post](https://x.com/HustleXR/status/2090102574271930722) |
-| Engagement | ❤ 94 · 🔁 5 · 👁 1442 · score 12.2 |
-| Collected | 2026-08-20T12:00:00Z |
-| Tags | wuxia, martial-arts, storyboard, character-lock, jar |
+#### Video
 
-> Note: 8 keyframe martial-arts storyboard; requires image1 character lock.
+<div align="center">
+
+<a href="https://video.twimg.com/amplify_video/2090102457644785664/vid/avc1/1280x720/0iOivP_JZkNuPZgF.mp4?tag=29">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090102457644785664/img/MkwUQ27s-drt2IVn.jpg" width="680" alt="Wuxia Village Courtyard Eight-Frame Storyboard Fight" style="border-radius:12px;max-width:100%;">
+</a>
+
+**[▶ Watch video](https://video.twimg.com/amplify_video/2090102457644785664/vid/avc1/1280x720/0iOivP_JZkNuPZgF.mp4?tag=29)** · **[↗ View on X](https://x.com/HustleXR/status/2090102574271930722)**
+
+*Click image to open the video · X CDN links may expire; use the post if needed.*
+
+</div>
+
+#### Details
+
+- **Author:** [Zayan](https://x.com/HustleXR) ([@HustleXR](https://x.com/HustleXR))
+- **Source:** [X Post](https://x.com/HustleXR/status/2090102574271930722)
+- **Published:** Aug 19, 2026
+- **Engagement:** ❤ 100 · 🔁 5 · 👁 1,482 · score `12.3`
+- **ID:** [`20260820-009`](data/prompts/2026-08-20/20260820-009.json)
+- **Tags:** `wuxia`, `martial-arts`, `storyboard`, `character-lock`, `jar`
+- **Notes:** 8 keyframe martial-arts storyboard; requires image1 character lock.
 
 
 [← Back to README](../README.md)

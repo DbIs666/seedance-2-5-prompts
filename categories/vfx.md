@@ -8,9 +8,11 @@ Prompts tagged `vfx`. Primary focus: Seedance 2.5 (2.0 compatible).
 
 ### Holographic Frame Dance Cyberpunk Transformation
 
+![model](https://img.shields.io/badge/Seedance-2.5-0ea5e9) ![lang](https://img.shields.io/badge/lang-English-blue) ![cat](https://img.shields.io/badge/vfx-1e293b) ![cat](https://img.shields.io/badge/cinematic-1e293b)
+
 `20260820-003` · `seedance-2.5` · vfx, cinematic
 
-**Prompt:**
+#### Prompt
 
 ```text
 Setting: A cozy modern indoor room with warm ambient lighting, stylish wall posters, a hanging pendant lamp, and contemporary furniture, filmed with a cinematic handheld camera look.
@@ -30,23 +32,39 @@ The holographic worlds continuously morph, rotate, and expand with every gesture
 Ending: The final geometric frame closes around her face, the holographic effects rapidly fade away, and everything smoothly returns to the original cozy room, leaving only subtle glowing particles as she finishes her final pose.
 ```
 
-| Field | Value |
-|-------|-------|
-| Author | Aqsa ([@Aqsahere_](https://x.com/Aqsahere_)) |
-| Source | [Original post](https://x.com/Aqsahere_/status/2087386090315616601) |
-| Engagement | ❤ 563 · 🔁 52 · 👁 40086 · score 19.8 |
-| Collected | 2026-08-20T12:00:00Z |
-| Tags | dance, hologram, cyberpunk, handheld |
+#### Video
 
-> Note: Strong VFX hand-triggered holographic world transitions.
+<div align="center">
+
+<a href="https://video.twimg.com/amplify_video/2087385900460478464/vid/avc1/1276x718/-L_qybe_2_6tJ_dO.mp4?tag=29">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087385900460478464/img/-6oNpNeyMy3ll0cm.jpg" width="680" alt="Holographic Frame Dance Cyberpunk Transformation" style="border-radius:12px;max-width:100%;">
+</a>
+
+**[▶ Watch video](https://video.twimg.com/amplify_video/2087385900460478464/vid/avc1/1276x718/-L_qybe_2_6tJ_dO.mp4?tag=29)** · **[↗ View on X](https://x.com/Aqsahere_/status/2087386090315616601)**
+
+*Click image to open the video · X CDN links may expire; use the post if needed.*
+
+</div>
+
+#### Details
+
+- **Author:** [Aqsa](https://x.com/Aqsahere_) ([@Aqsahere_](https://x.com/Aqsahere_))
+- **Source:** [X Post](https://x.com/Aqsahere_/status/2087386090315616601)
+- **Published:** Aug 12, 2026
+- **Engagement:** ❤ 563 · 🔁 52 · 👁 40.1K · score `19.8`
+- **ID:** [`20260820-003`](data/prompts/2026-08-20/20260820-003.json)
+- **Tags:** `dance`, `hologram`, `cyberpunk`, `handheld`
+- **Notes:** Strong VFX hand-triggered holographic world transitions.
 
 ---
 
 ### Magical Mud Jar Bird Emergence
 
+![model](https://img.shields.io/badge/Seedance-2.5-0ea5e9) ![lang](https://img.shields.io/badge/lang-English-blue) ![cat](https://img.shields.io/badge/vfx-1e293b) ![cat](https://img.shields.io/badge/cinematic-1e293b)
+
 `20260820-004` · `seedance-2.5` · vfx, cinematic
 
-**Prompt:**
+#### Prompt
 
 ```text
 Use the uploaded image as the exact visual reference. Create a highly detailed, cinematic 10-second magical transformation video. Keep the overall composition, character appearance, lighting, camera quality, and environment consistent with the reference.
@@ -105,23 +123,39 @@ cartoon, anime, CGI-looking bird, fake feathers, deformed bird, malformed wings,
 Photorealistic cinematic fantasy, highly detailed wet mud, realistic glass, physically accurate lighting, natural bird anatomy, extremely detailed feathers, believable mud-to-bird transformation, smooth 10-second animation, consistent objects and environment, premium cinematic quality, realistic depth of field, 4K-quality detail.
 ```
 
-| Field | Value |
-|-------|-------|
-| Author | Ehaan ([@Yesandyou_](https://x.com/Yesandyou_)) |
-| Source | [Original post](https://x.com/Yesandyou_/status/2090075447195480403) |
-| Engagement | ❤ 370 · 🔁 71 · 👁 9009 · score 19.1 |
-| Collected | 2026-08-20T12:00:00Z |
-| Tags | transformation, macro, bird, fantasy, negative-prompt |
+#### Video
 
-> Note: 10s vertical transformation with detailed negative prompt; needs image ref.
+<div align="center">
+
+<a href="https://video.twimg.com/amplify_video/2090075417994747904/vid/avc1/1280x720/nmquTU-og0yGy9iq.mp4?tag=29">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090075417994747904/img/amG0OoldLjFHE9LV.jpg" width="680" alt="Magical Mud Jar Bird Emergence" style="border-radius:12px;max-width:100%;">
+</a>
+
+**[▶ Watch video](https://video.twimg.com/amplify_video/2090075417994747904/vid/avc1/1280x720/nmquTU-og0yGy9iq.mp4?tag=29)** · **[↗ View on X](https://x.com/Yesandyou_/status/2090075447195480403)**
+
+*Click image to open the video · X CDN links may expire; use the post if needed.*
+
+</div>
+
+#### Details
+
+- **Author:** [Ehaan](https://x.com/Yesandyou_) ([@Yesandyou_](https://x.com/Yesandyou_))
+- **Source:** [X Post](https://x.com/Yesandyou_/status/2090075447195480403)
+- **Published:** Aug 19, 2026
+- **Engagement:** ❤ 370 · 🔁 71 · 👁 9,011 · score `19.1`
+- **ID:** [`20260820-004`](data/prompts/2026-08-20/20260820-004.json)
+- **Tags:** `transformation`, `macro`, `bird`, `fantasy`, `negative-prompt`
+- **Notes:** 10s vertical transformation with detailed negative prompt; needs image ref.
 
 ---
 
 ### Streetwear Ballet Dive into Underwater City
 
+![model](https://img.shields.io/badge/Seedance-2.5-0ea5e9) ![lang](https://img.shields.io/badge/lang-English-blue) ![cat](https://img.shields.io/badge/cinematic-1e293b) ![cat](https://img.shields.io/badge/vfx-1e293b)
+
 `20260820-007` · `seedance-2.5` · cinematic, vfx
 
-**Prompt:**
+#### Prompt
 
 ```text
 Young East Asian woman in modern black streetwear, headphones, white gloves, and teal ballet pointe shoes, photorealistic.
@@ -133,23 +167,39 @@ SHOT 3
 She discovers a massive glowing underwater portal, touches it, and suddenly launches upward through the ocean. She bursts back onto the surface at sunset, laughs, and looks directly into the camera.
 ```
 
-| Field | Value |
-|-------|-------|
-| Author | Smiling Khan ([@AIwithkhan](https://x.com/AIwithkhan)) |
-| Source | [Original post](https://x.com/AIwithkhan/status/2085949437181063645) |
-| Engagement | ❤ 101 · 🔁 8 · 👁 10598 · score 13.9 |
-| Collected | 2026-08-20T12:00:00Z |
-| Tags | underwater, portal, multi-shot, streetwear |
+#### Video
 
-> Note: Three-shot fantasy transition from pool jump to underwater city.
+<div align="center">
+
+<a href="https://video.twimg.com/amplify_video/2085949364162490368/vid/avc1/1920x1080/M_toxYtdP_WHBzbV.mp4?tag=29">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085949364162490368/img/KkGXvfpE4sCsk4Aq.jpg" width="680" alt="Streetwear Ballet Dive into Underwater City" style="border-radius:12px;max-width:100%;">
+</a>
+
+**[▶ Watch video](https://video.twimg.com/amplify_video/2085949364162490368/vid/avc1/1920x1080/M_toxYtdP_WHBzbV.mp4?tag=29)** · **[↗ View on X](https://x.com/AIwithkhan/status/2085949437181063645)**
+
+*Click image to open the video · X CDN links may expire; use the post if needed.*
+
+</div>
+
+#### Details
+
+- **Author:** [Smiling Khan](https://x.com/AIwithkhan) ([@AIwithkhan](https://x.com/AIwithkhan))
+- **Source:** [X Post](https://x.com/AIwithkhan/status/2085949437181063645)
+- **Published:** Aug 08, 2026
+- **Engagement:** ❤ 101 · 🔁 8 · 👁 10.6K · score `13.9`
+- **ID:** [`20260820-007`](data/prompts/2026-08-20/20260820-007.json)
+- **Tags:** `underwater`, `portal`, `multi-shot`, `streetwear`
+- **Notes:** Three-shot fantasy transition from pool jump to underwater city.
 
 ---
 
 ### Ink Brush POV Live-Action to Storybook World
 
+![model](https://img.shields.io/badge/Seedance-2.5-0ea5e9) ![lang](https://img.shields.io/badge/lang-English-blue) ![cat](https://img.shields.io/badge/vfx-1e293b) ![cat](https://img.shields.io/badge/cinematic-1e293b)
+
 `20260820-008` · `seedance-2.5` · vfx, cinematic
 
-**Prompt:**
+#### Prompt
 
 ```text
 Style: Cinematic live-action seamlessly blended with richly textured 2D storybook illustration, using a magical ink-brush transformation effect.
@@ -169,23 +219,39 @@ Overall Effect:
 The video should feel like a real world being painted into existence by the viewer's hand. Every transformation should begin exactly where the brush touches, spreading organically through objects and environments. Avoid sudden cuts or artificial morphing; the live-action footage should physically evolve into hand-drawn artwork while maintaining realistic motion, perspective, and continuity.
 ```
 
-| Field | Value |
-|-------|-------|
-| Author | Smiling Khan ([@AIwithkhan](https://x.com/AIwithkhan)) |
-| Source | [Original post](https://x.com/AIwithkhan/status/2090048889424388428) |
-| Engagement | ❤ 101 · 🔁 6 · 👁 7224 · score 13.3 |
-| Collected | 2026-08-20T12:00:00Z |
-| Tags | pov, ink, watercolor, transformation, montage |
+#### Video
 
-> Note: First-person brush transforms real world into storybook illustration.
+<div align="center">
+
+<a href="https://video.twimg.com/amplify_video/2090048776635654144/vid/avc1/1280x720/C-C8AYvuBLmChNFB.mp4?tag=29">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090048776635654144/img/l0pgzOq9dsqVzKtL.jpg" width="680" alt="Ink Brush POV Live-Action to Storybook World" style="border-radius:12px;max-width:100%;">
+</a>
+
+**[▶ Watch video](https://video.twimg.com/amplify_video/2090048776635654144/vid/avc1/1280x720/C-C8AYvuBLmChNFB.mp4?tag=29)** · **[↗ View on X](https://x.com/AIwithkhan/status/2090048889424388428)**
+
+*Click image to open the video · X CDN links may expire; use the post if needed.*
+
+</div>
+
+#### Details
+
+- **Author:** [Smiling Khan](https://x.com/AIwithkhan) ([@AIwithkhan](https://x.com/AIwithkhan))
+- **Source:** [X Post](https://x.com/AIwithkhan/status/2090048889424388428)
+- **Published:** Aug 19, 2026
+- **Engagement:** ❤ 102 · 🔁 6 · 👁 7,253 · score `13.3`
+- **ID:** [`20260820-008`](data/prompts/2026-08-20/20260820-008.json)
+- **Tags:** `pov`, `ink`, `watercolor`, `transformation`, `montage`
+- **Notes:** First-person brush transforms real world into storybook illustration.
 
 ---
 
 ### 1950s Diner Bullet-Time Milkshake Spill
 
+![model](https://img.shields.io/badge/Seedance-2.5-0ea5e9) ![lang](https://img.shields.io/badge/lang-English-blue) ![cat](https://img.shields.io/badge/cinematic-1e293b) ![cat](https://img.shields.io/badge/vfx-1e293b) ![cat](https://img.shields.io/badge/meme-1e293b)
+
 `20260820-010` · `seedance-2.5` · cinematic, vfx, meme
 
-**Prompt:**
+#### Prompt
 
 ```text
 Bullet Time effect
@@ -194,15 +260,29 @@ Replace him with her and her with him in this prompt
 In short replace man with girl in the reference image
 ```
 
-| Field | Value |
-|-------|-------|
-| Author | Smiling Khan ([@AIwithkhan](https://x.com/AIwithkhan)) |
-| Source | [Original post](https://x.com/AIwithkhan/status/2090306815833899065) |
-| Engagement | ❤ 91 · 🔁 5 · 👁 9200 · score 13.0 |
-| Collected | 2026-08-20T12:00:00Z |
-| Tags | bullet-time, diner, slow-motion, orbit, comedy |
+#### Video
 
-> Note: Bullet-time diner gag with freeze/rewind; optional gender swap note at end.
+<div align="center">
+
+<a href="https://video.twimg.com/amplify_video/2090306745222729730/vid/avc1/1280x720/YQfTr28ScjorUuFk.mp4?tag=29">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090306745222729730/img/XeEidCvLwcX_3N8v.jpg" width="680" alt="1950s Diner Bullet-Time Milkshake Spill" style="border-radius:12px;max-width:100%;">
+</a>
+
+**[▶ Watch video](https://video.twimg.com/amplify_video/2090306745222729730/vid/avc1/1280x720/YQfTr28ScjorUuFk.mp4?tag=29)** · **[↗ View on X](https://x.com/AIwithkhan/status/2090306815833899065)**
+
+*Click image to open the video · X CDN links may expire; use the post if needed.*
+
+</div>
+
+#### Details
+
+- **Author:** [Smiling Khan](https://x.com/AIwithkhan) ([@AIwithkhan](https://x.com/AIwithkhan))
+- **Source:** [X Post](https://x.com/AIwithkhan/status/2090306815833899065)
+- **Published:** Aug 20, 2026
+- **Engagement:** ❤ 97 · 🔁 5 · 👁 9,301 · score `13.1`
+- **ID:** [`20260820-010`](data/prompts/2026-08-20/20260820-010.json)
+- **Tags:** `bullet-time`, `diner`, `slow-motion`, `orbit`, `comedy`
+- **Notes:** Bullet-time diner gag with freeze/rewind; optional gender swap note at end.
 
 
 [← Back to README](../README.md)
